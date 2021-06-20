@@ -1,0 +1,44 @@
+2021-06-20 16:32:23.147 INFO  BootApplication.logStarting:55 - Starting BootApplication on DESKTOP-FAUAFH1 with PID 11692 (E:\dev_workspace\eclipse-jee-2019-12\jfinal-4.9-spring-boot-2.3.0\target\classes started by Administrator in E:\dev_workspace\eclipse-jee-2019-12\jfinal-4.9-spring-boot-2.3.0)
+2021-06-20 16:32:23.150 INFO  BootApplication.logStartupProfileInfo:651 - No active profile set, falling back to default profiles: default
+2021-06-20 16:32:24.209 WARN  jsr.handleDeployment:68 - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-20 16:32:24.231 INFO  servlet.log:364 - Initializing Spring embedded WebApplicationContext
+2021-06-20 16:32:24.232 INFO  ContextLoader.prepareWebApplicationContext:284 - Root WebApplicationContext: initialization completed in 1043 ms
+2021-06-20 16:32:24.371 INFO  ThreadPoolTaskExecutor.initialize:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-20 16:32:24.480 INFO  undertow.start:117 - starting server: Undertow - 2.1.0.Final
+2021-06-20 16:32:24.489 INFO  xnio.<clinit>:95 - XNIO version 3.8.0.Final
+2021-06-20 16:32:24.499 INFO  nio.<clinit>:59 - XNIO NIO Implementation Version 3.8.0.Final
+2021-06-20 16:32:24.555 INFO  threads.<clinit>:52 - JBoss Threads version 3.1.0.Final
+2021-06-20 16:32:24.593 INFO  UndertowWebServer.start:133 - Undertow started on port(s) 8080 (http)
+2021-06-20 16:32:24.600 INFO  BootApplication.logStarted:61 - Started BootApplication in 1.719 seconds (JVM running for 2.125)
+2021-06-20 16:32:58.110 INFO  servlet.log:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-20 16:32:58.110 INFO  DispatcherServlet.initServletBean:525 - Initializing Servlet 'dispatcherServlet'
+2021-06-20 16:32:58.115 INFO  DispatcherServlet.initServletBean:547 - Completed initialization in 4 ms
+2021-06-20 17:10:20.252 INFO  servlet.log:364 - 1 Spring WebApplicationInitializers detected on classpath
+2021-06-20 17:10:20.337 INFO  BootInitializer.configure:17 - 启动spring-boot
+2021-06-20 17:10:20.614 INFO  BootInitializer.logStarting:55 - Starting BootInitializer on DESKTOP-FAUAFH1 with PID 10544 (E:\dev_workspace\eclipse-jee-2019-12\jfinal-4.9-spring-boot-2.3.0\target\classes started by Administrator in E:\dev_workspace\eclipse-jee-2019-12\jfinal-4.9-spring-boot-2.3.0)
+2021-06-20 17:10:20.615 INFO  BootInitializer.logStartupProfileInfo:651 - No active profile set, falling back to default profiles: default
+2021-06-20 17:10:21.264 INFO  servlet.log:364 - Initializing Spring embedded WebApplicationContext
+2021-06-20 17:10:21.265 INFO  ContextLoader.prepareWebApplicationContext:284 - Root WebApplicationContext: initialization completed in 611 ms
+2021-06-20 17:10:21.514 INFO  ThreadPoolTaskExecutor.initialize:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-20 17:10:21.655 INFO  BootInitializer.logStarted:61 - Started BootInitializer in 1.315 seconds (JVM running for 1.918)
+2021-06-20 17:10:21.730 INFO  undertow.start:117 - starting server: Undertow - 2.1.0.Final
+2021-06-20 17:10:21.739 INFO  xnio.<clinit>:95 - XNIO version 3.8.0.Final
+2021-06-20 17:10:21.747 INFO  nio.<clinit>:59 - XNIO NIO Implementation Version 3.8.0.Final
+2021-06-20 17:10:22.149 INFO  threads.<clinit>:52 - JBoss Threads version 3.1.0.Final
+2021-06-20 17:10:27.011 INFO  servlet.log:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-20 17:10:27.011 INFO  DispatcherServlet.initServletBean:525 - Initializing Servlet 'dispatcherServlet'
+2021-06-20 17:10:27.015 INFO  DispatcherServlet.initServletBean:547 - Completed initialization in 4 ms
+2021-06-20 17:10:38.969 INFO  servlet.log:364 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-06-20 17:10:38.970 INFO  undertow.stop:252 - stopping server: Undertow - 2.1.0.Final
+2021-06-20 17:10:38.984 INFO  servlet.log:364 - 1 Spring WebApplicationInitializers detected on classpath
+2021-06-20 17:10:38.988 INFO  BootInitializer.configure:17 - 启动spring-boot
+2021-06-20 17:10:39.011 INFO  BootInitializer.logStarting:55 - Starting BootInitializer on DESKTOP-FAUAFH1 with PID 10544 (E:\dev_workspace\eclipse-jee-2019-12\jfinal-4.9-spring-boot-2.3.0\target\classes started by Administrator in E:\dev_workspace\eclipse-jee-2019-12\jfinal-4.9-spring-boot-2.3.0)
+2021-06-20 17:10:39.011 INFO  BootInitializer.logStartupProfileInfo:651 - No active profile set, falling back to default profiles: default
+2021-06-20 17:10:39.210 INFO  servlet.log:364 - Initializing Spring embedded WebApplicationContext
+2021-06-20 17:10:39.210 INFO  ContextLoader.prepareWebApplicationContext:284 - Root WebApplicationContext: initialization completed in 197 ms
+2021-06-20 17:10:39.307 INFO  ThreadPoolTaskExecutor.initialize:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-20 17:10:39.363 INFO  BootInitializer.logStarted:61 - Started BootInitializer in 0.374 seconds (JVM running for 19.626)
+2021-06-20 17:10:39.408 INFO  undertow.start:117 - starting server: Undertow - 2.1.0.Final
+2021-06-20 17:10:43.838 INFO  servlet.log:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-20 17:10:43.838 INFO  DispatcherServlet.initServletBean:525 - Initializing Servlet 'dispatcherServlet'
+2021-06-20 17:10:43.841 INFO  DispatcherServlet.initServletBean:547 - Completed initialization in 3 ms
